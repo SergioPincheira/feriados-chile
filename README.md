@@ -1,2 +1,2 @@
-# feriados_chile
+# feriados-chile
 Este código se encarga de extraer datos en formato JSON desde una API de feriados en Chile, cubriendo los años 2013 a 2024. Los datos se obtienen año por año y se normalizan en un DataFrame para su posterior análisis. La extracción incluye un tiempo de espera entre solicitudes para evitar sobrecargar la API. Finalmente, el código genera un mapa de calor para visualizar la distribución de los feriados por mes.
